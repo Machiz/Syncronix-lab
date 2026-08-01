@@ -1,21 +1,49 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="<img width="918" height="322" alt="image" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000006468820e960dffc2d7ebc703&ts=496004&p=fs&cid=1&sig=d56c311d97647f20c438116c7be5119b9e9bcdfd5d70be1923ec5a91d7dffbe5&v=0" />
-" />
+  <img
+    width="918"
+    alt="Syncronix Lab"
+    src="./assets/syncronix-lab-logo.png"
+  />
 </div>
 
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+This repository contains everything you need to run the Syncronix Lab application locally.
 
-View your app in AI Studio: https://ai.studio/apps/10e697d7-e2fc-4a55-8f69-c9c2cad50d65
+## View in AI Studio
 
-## Run Locally
+[Open the application in Google AI Studio](https://ai.studio/apps/10e697d7-e2fc-4a55-8f69-c9c2cad50d65)
 
-**Prerequisites:**  Node.js
+## Run locally
 
+### Prerequisites
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* Node.js
+* A Gemini API key
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone URL_DE_TU_REPOSITORIO
+cd NOMBRE_DEL_REPOSITORIO
+```
+
+2. Install the dependencies:
+
+```bash
+npm install
+```
+
+3. Open the `.env.local` file and add your Gemini API key:
+
+```env
+GEMINI_API_KEY=TU_CLAVE_DE_GEMINI
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
