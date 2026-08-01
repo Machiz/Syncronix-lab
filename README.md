@@ -2,7 +2,7 @@
   <img
     width="918"
     alt="Syncronix Lab"
-    src="./assets/syncronix-lab-logo.png"
+    src="syncronix_lab_símbolo_tecnológico_azul_y_cian.png"
   />
 </div>
 
