@@ -1,0 +1,6 @@
+{
+  "name": "Syncronix Lab: VisionPulse",
+  "description": "Multimodal engineering copilot for embedded systems and IoT debugging circuit photos, firmware, and serial logs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
