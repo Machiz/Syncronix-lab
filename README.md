@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="<img width="918" height="322" alt="image" src="https://github.com/user-attachments/assets/5304e434-d601-46f9-a7fc-6e38ade33d0a" />
+<img width="1200" height="475" alt="GHBanner" src="<img width="918" height="322" alt="image" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000006468820e960dffc2d7ebc703&ts=496004&p=fs&cid=1&sig=d56c311d97647f20c438116c7be5119b9e9bcdfd5d70be1923ec5a91d7dffbe5&v=0" />
 " />
 </div>
 
